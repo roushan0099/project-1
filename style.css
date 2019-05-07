@@ -169,13 +169,13 @@ a.social {
   transition: all .5s;
 }
 a.twitter {
-  background-image: url(social/twitterp.svg);
+  background-image: url(social logo/twitterp.svg);
 }
 a.linkedin {
-  background-image: url(social/linkedinn.svg);
+  background-image: url(social logo/linkedinn.svg);
 }
 a.github {
-  background-image: url(social/githubp.svg);
+  background-image: url(social logo/githubp.svg);
 }
 a.social:hover {
   transform: scale(1.2);   
