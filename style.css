@@ -56,7 +56,7 @@ a:hover {
 
 header {
   text-align: center;
-  background: url('images/coverp.jpg') no-repeat top center ;
+  background-image: url('images/coverp.jpg');
   background-size: cover;
   overflow: hidden;
   padding-top: 60px;
@@ -169,13 +169,13 @@ a.social {
   transition: all .5s;
 }
 a.twitter {
-  background-image: url(twitterp.svg);
+  background-image: url(social/twitterp.svg);
 }
 a.linkedin {
-  background-image: url(linkedinn.svg);
+  background-image: url(social/linkedinn.svg);
 }
 a.github {
-  background-image: url(githubp.svg);
+  background-image: url(social/githubp.svg);
 }
 a.social:hover {
   transform: scale(1.2);   
